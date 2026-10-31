@@ -1,0 +1,16 @@
+{
+  "name": "Logistica - Matheus Cadoni",
+  "dataColors": ["#8B93C9", "#4F6BED", "#F5A524", "#2EC4B6", "#E5484D", "#14123F", "#94A3B8", "#8B5CF6", "#0EA5E9", "#F97316", "#22C55E", "#64748B"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2433",
+  "tableAccent": "#4F6BED",
+  "good": "#2EC4B6",
+  "neutral": "#F5A524",
+  "bad": "#E5484D",
+  "textClasses": {
+    "callout": {"fontFace": "Segoe UI Semibold", "color": "#14123F"},
+    "title": {"fontFace": "Segoe UI Semibold", "color": "#1F2433"},
+    "header": {"fontFace": "Segoe UI Semibold", "color": "#1F2433"},
+    "label": {"fontFace": "Segoe UI", "color": "#4A5068"}
+  }
+}

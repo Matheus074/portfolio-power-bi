@@ -1,0 +1,13 @@
+{
+  "name": "Alura Pets - Matheus Cadoni",
+  "dataColors": ["#E8702A", "#2A9D8F", "#F4A261", "#6D4C41", "#E76F51", "#264653", "#E9C46A", "#C2410C", "#8AB17D", "#B5838D", "#94A3B8", "#3B2A24"],
+  "background": "#FFFFFF",
+  "foreground": "#3B2A24",
+  "tableAccent": "#E8702A",
+  "textClasses": {
+    "callout": {"fontFace": "Segoe UI Semibold", "color": "#3B2A24"},
+    "title": {"fontFace": "Segoe UI Semibold", "color": "#3B2A24"},
+    "header": {"fontFace": "Segoe UI Semibold", "color": "#3B2A24"},
+    "label": {"fontFace": "Segoe UI", "color": "#6B5A50"}
+  }
+}
