@@ -12,6 +12,7 @@ Painéis desenvolvidos no curso de Power BI do **Senai**, com layout e tema de c
 |---|---|---|
 | [![Logística](logistica/dashboard.png)](logistica) | **[Gestão de Faturamento e Logística](logistica)** | Onde estão os atrasos e as devoluções nas entregas? |
 | [![Alura Pets](alura-pets/dashboard.png)](alura-pets) | **[Alura Pets — Painel de Vendas](alura-pets)** | Quais regiões, públicos e períodos concentram o faturamento? |
+| [![E-commerce Olist](ecommerce-olist/dashboard.png)](ecommerce-olist) | **[E-commerce Olist — Clientes e Vendedores](ecommerce-olist)** | Onde estão clientes e vendedores, quanto se fatura e os envios saem no prazo? |
 
 ## Como abrir
 
